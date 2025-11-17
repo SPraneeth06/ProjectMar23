@@ -1,2 +1,1 @@
-readme
-dqadax
+readme .md
